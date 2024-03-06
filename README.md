@@ -1,8 +1,9 @@
 ## Hey there 👋, I'm Jessica!
 
-I am a MSc student at IE University studying Big Data and Business Analytics, and I am very interested in data science and AI. 🚀
+I am a MSc student at IE University studying Big Data and Business Analytics, interested in data science and AI. 🚀
 
-Leveraging analytical tools to extract actionable insights, I aim to foster innovative, data-driven strategies. My journey merges extensive experience in international sales and client relations with an understanding of the tech sector. I am super excited to apply data to enhance efficiencies and solve business problems. 🌟
+
+My journey merges experience in international sales and client relations with an understanding of the tech sector, and I am excited to apply analytical prowess to enhance operational efficiencies and solve business problem, adeptly navigating the fast-paced and evolving landscape of the tech industry.
 
 Feel free to connect with me here!
 

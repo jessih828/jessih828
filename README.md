@@ -3,9 +3,8 @@
 I am a MSc student at IE University studying Big Data and Business Analytics, interested in data science and AI. 🚀
 
 
-My journey merges experience in international sales and client relations with an understanding of the tech sector, and I am excited to apply analytical prowess to enhance operational efficiencies and solve business problem, adeptly navigating the fast-paced and evolving landscape of the tech industry.
+My experience merges international account management and client relations with a passion of the tech sector. I'm driven by fast-paced, dynamic environments and am excited to contribute and develop my analytical skills in meaningful ways.
 
-Feel free to connect with me here!
 
 ### My Interest and Skills:
 

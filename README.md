@@ -1,19 +1,17 @@
-## Hey there 👋, I'm Jessica!
+# Hey there, I'm Jessica!
 
-I am a MSc student at IE University studying Big Data and Business Analytics, interested in data science and AI. 🚀
+I'm Jessica, a data analyst passionate about using machine learning and analytics to uncover insights. 
 
+I have an MSc in Big Data and Business Analytics, specializing in Advanced AI. My background combines international account management and data science with a passion for discovering and learning new things about technology. I thrive in fast-paced, dynamic environments and am excited to apply my analytical skills to drive impactful business decisions.
 
-My experience merges international account management and client relations with a passion of the tech sector. I'm driven by fast-paced, dynamic environments and am excited to contribute and develop my analytical skills in meaningful ways.
+## Interests and Skills
 
+- **Programming Languages:** Python, SQL
+- **Libraries and Tools:** pandas, numpy, sklearn, matplotlib, plotly
+- **Data Visualization:** PowerBI, Tableau
+- **Exploring:** Machine Learning, General AI, LLMs
+- **Database Management:** DB2, MySQL, MongoDB
 
-### My Interest and Skills:
+## Visit My Site
 
-- 🛠 &nbsp; I’m currently working with 🐍 Python & 💿 SQL
-- 📚 &nbsp; Engaged in learning and using libraries like 🐼 pandas, 🧮 numpy, 🤖 sklearn, 📈matplotlib, and 📉plotly...
-- 📈 &nbsp; I work with data visualization tools such as 📊 PowerBI & Tableau
-- 🚀 &nbsp; Exploring Machine Learning, General AI, and LLMs
-- 🖥️ &nbsp; Using Database Management Systems like 🛢️ DB2, 🖥️ MySQL, 🍃 MongoDB
-
-
-### Visit my site 
 Check out my portfolio: [https://jessih828.github.io/](https://jessih828.github.io/)

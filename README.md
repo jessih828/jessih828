@@ -13,3 +13,7 @@ My experience merges international account management and client relations with 
 - 📈 &nbsp; I work with data visualization tools such as 📊 PowerBI & Tableau
 - 🚀 &nbsp; Exploring Machine Learning, General AI, and LLMs
 - 🖥️ &nbsp; Using Database Management Systems like 🛢️ DB2, 🖥️ MySQL, 🍃 MongoDB
+
+
+### Visit my site 
+Check out my portfolio: [https://jessih828.github.io/](https://jessih828.github.io/)
